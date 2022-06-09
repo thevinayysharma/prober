@@ -1,0 +1,14 @@
+{
+  "name": "prober",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^5.0.1",
+    "expect": "^28.1.1",
+    "jest-circus": "^28.1.1",
+    "jest-environment-node": "^28.1.1",
+    "jest-haste-map": "^28.1.1",
+    "jest-worker": "^28.1.1"
+  }
+}
