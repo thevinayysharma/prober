@@ -26,4 +26,4 @@ Simplified JS testing framework for learning.
 - [Haste-map learning](https://github.com/facebook/jest/blob/04b75978178ccb31bccb9f9b2f8a0db2fecc271e/packages/jest-haste-map/src/index.ts#L136)
 
 ## Resources
-- Testing framework Inspired from [Cjopenre](https://cpojer.net/posts/building-a-javascript-testing-framework) blog series
+- Testing framework Inspired from [@Cpojer](https://cpojer.net/posts/building-a-javascript-testing-framework) blog series
